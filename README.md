@@ -1,4 +1,4 @@
-# Hello, I'm [Ian Miranda] 👋
+# Hello, I'm Ian Miranda 👋
 
 🏢 **Systems Design Engineer** @ [Boeing](https://www.boeing.com/)  
 🎯 Passionate about solving real-world problems through **industrial automation** and **efficient coding**  
