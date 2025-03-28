@@ -7,7 +7,7 @@
 ## 🛠️ Technical Toolkit
 
 ### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=algolia&hide_border=true&langs_count=6&exclude_repo=repo1,repo2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianfmir&layout=compact&theme=algolia&hide_border=true&langs_count=6&exclude_repo=repo1,repo2)
 
 *💡 Note: Language stats are based on my public code and don't reflect proprietary work*
 
